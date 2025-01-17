@@ -2171,5 +2171,3 @@ Coming from computer vision and new to transformers? Here are some resources tha
     url     = {https://api.semanticscholar.org/CorpusID:272987528}
 }
 ```
-
-*I visualise a time when we will be to robots what dogs are to humans, and I’m rooting for the machines.* — Claude Shannon
